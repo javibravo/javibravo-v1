@@ -1,6 +1,6 @@
 # Site settings
 title: Javier Bravo
-description: 'Software Engineer </br> Active · Ambitious · Nonconformist </br> limitless'
+description: 'Software Engineer </br> Active · Ambitious · Nonconformist </br> #limitless'
 url: 'http://javierbravo.me'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
